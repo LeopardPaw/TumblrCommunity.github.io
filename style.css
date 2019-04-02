@@ -1,0 +1,27 @@
+body{
+  background-color: #2F252F;
+  color: WHITE;
+}
+
+/*.nav{
+  display:block;
+  max-height: 50px;
+  min-height: 10%;
+}*/
+
+.nav-links{
+  color: #CA52DC;
+  display: inline;
+  /*justify-content: center;*/
+  margin: 0px 10px;
+}
+
+.filler{
+  height: 100%;
+  padding: 0% 16% 0% 16%;
+  content: "";
+}
+
+.nav-links a{
+  color: inherit;
+}
